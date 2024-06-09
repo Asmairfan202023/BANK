@@ -1,0 +1,21 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/inquirer": "^9.0.7"
+  }
+}
