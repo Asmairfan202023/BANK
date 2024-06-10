@@ -1,4 +1,4 @@
-// #! /usr/bin/env node
+#! /usr/bin/env node
 // index.ts
 import { faker } from '@faker-js/faker';
 import inquirer from 'inquirer';
